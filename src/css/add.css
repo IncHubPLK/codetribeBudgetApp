@@ -1,0 +1,30 @@
+input{
+    width: 500px;
+    height: 50px;
+    background-color: white;
+    border: none;
+    padding-left: 15px;
+    margin-top: 15px;
+}
+
+select {
+    width: 515px;
+    height: 50px;
+    background-color: white;
+    border: none;
+    padding-left: 15px;
+    margin-top: 15px;
+
+}
+
+#btn{
+
+    border-radius: 5px;
+    margin-top: 15px;
+    width: 515px;
+    height: 30px;
+    background-color: white;
+    border-color: greenyellow;
+    cursor: pointer;
+
+}

@@ -1,0 +1,16 @@
+.balance {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    width: 500px;
+    height: 100px;
+    margin-top: 5px;
+}
+
+.line {
+    border-left: 5px solid green;
+    height: 90px;
+    margin-left: 40px;
+}
